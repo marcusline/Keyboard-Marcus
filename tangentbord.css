@@ -1,0 +1,222 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+#big{
+  background-color: #d0f0c0;
+  width: 100%;
+  height: 150px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.top{
+
+  background-color: black;
+  width: 94px;
+  height: 25px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+}
+.top:hover{
+  background-color: grey;
+}
+
+.top2{
+  background-color: black;
+  width: 105px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.top2:hover{
+  background-color: grey;
+}
+
+.backspace{
+  background-color: black;
+  width: 143px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+}
+.backspace:hover{
+  background-color: grey;
+}
+
+.top3{
+  background-color: black;
+  width: 105px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.top3:hover{
+  background-color: grey;
+}
+
+.thing{
+  background-color: black;
+  width: 125px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+}
+.thing:hover{
+  background-color: grey;
+}
+
+.enter{
+  background-color: black;
+  width: 123px;
+  height: 102px;
+  margin: 1px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  left: 1410px;
+  top: 429px;
+  font-size: 40px;
+}
+.enter:hover{
+  background-color: grey;
+}
+
+.top4{
+  background-color: black;
+  width: 105px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.top4:hover{
+  background-color: grey;
+}
+
+.caps{
+  background-color: black;
+  width: 125px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.caps:hover{
+  background-color: grey;
+}
+
+.top5{
+  background-color: black;
+  width: 105px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.top5:hover{
+  background-color: grey;
+}
+
+.Shift{
+  background-color: black;
+  width: 125px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.shift:hover{
+  background-color: grey;
+}
+
+.shift2{
+  background-color: black;
+  width: 230px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.shift2:hover{
+  background-color: grey;
+}
+
+.top6{
+  background-color: black;
+  width: 105px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.top6:hover{
+  background-color: grey;
+}
+.space{
+  background-color: black;
+  width: 658px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.space:hover{
+  background-color: grey;
+}
+.top7{
+  background-color: black;
+  width: 105px;
+  height: 50px;
+  margin: 1px;
+  float: right;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.pressed-button {
+  background-color: grey;
+}
+.ctrl{
+  background-color: black;
+  width: 125px;
+  height: 50px;
+  margin: 1px;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.ctrl:hover{
+    background-color: grey;
+}
