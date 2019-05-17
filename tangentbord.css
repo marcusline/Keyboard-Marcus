@@ -5,11 +5,10 @@
 
 
 #big{
-  background-color: #d0f0c0;
+  background-color: white;
   width: 100%;
-  height: 150px;
-  margin-bottom: 100px;
-  margin-top: 100px;
+  height: 150PX;
+  margin-bottom: 122.5px;
 }
 
 .top{
@@ -21,6 +20,7 @@
   float: left;
   text-align: center;
   color: white;
+  border-radius: 10px;
 }
 .top:hover{
   background-color: grey;
@@ -35,6 +35,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .top2:hover{
   background-color: grey;
@@ -48,6 +49,7 @@
   float: left;
   text-align: center;
   color: white;
+  border-radius: 10px;
 }
 .backspace:hover{
   background-color: grey;
@@ -62,6 +64,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .top3:hover{
   background-color: grey;
@@ -75,6 +78,7 @@
   float: left;
   text-align: center;
   color: white;
+  border-radius: 10px;
 }
 .thing:hover{
   background-color: grey;
@@ -89,8 +93,9 @@
   color: white;
   position: absolute;
   left: 1410px;
-  top: 429px;
+  top: 451.5px;
   font-size: 40px;
+  border-radius: 10px;
 }
 .enter:hover{
   background-color: grey;
@@ -105,6 +110,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .top4:hover{
   background-color: grey;
@@ -119,6 +125,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .caps:hover{
   background-color: grey;
@@ -133,6 +140,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .top5:hover{
   background-color: grey;
@@ -147,6 +155,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .shift:hover{
   background-color: grey;
@@ -161,6 +170,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .shift2:hover{
   background-color: grey;
@@ -175,6 +185,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .top6:hover{
   background-color: grey;
@@ -188,6 +199,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 .space:hover{
   background-color: grey;
@@ -201,6 +213,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 
 .pressed-button {
@@ -215,8 +228,21 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  border-radius: 10px;
 }
 
 .ctrl:hover{
     background-color: grey;
+}
+
+html, body{
+    background-color: #4169E1;
+}
+
+#header{
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  background-color: grey;
 }
