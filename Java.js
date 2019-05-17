@@ -60,7 +60,10 @@ function init() {
   showWord(words);
 }
 
-//Ta fram och visa ord från listan
-function showWord(words){
-  const random = Math.floor(Mat)
+// Pick & show random word
+function showWord(words) {
+  // Generate random array index
+  const randIndex = Math.floor(Math.random() * words.length);
+  // Output random word
+  currentWord.innerHTML = words[randIndex];
 }
