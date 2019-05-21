@@ -1,5 +1,5 @@
 // När man öppnar hemsidan så börjar spelet, load är för hemsian "loading" och init är spelets start function.
-window.addEventListener('load', init)
+/* window.addEventListener('load', init) */
 
 //var press = event.which || event.keyCode;
 //  document.getElementById(KeyA).style.color = "grey";
@@ -12,6 +12,10 @@ document.addEventListener('keydown', function(event) {
 }, 100);
 })
 
+
+
+/* Försökte skapa spel, men det bugga */
+/*
 //Epic score och time
 let time = 5;
 let score = 0;
@@ -67,3 +71,4 @@ function showWord(words){
   currentWord.innerHTML = words[randIndex];
 
 }
+*/
